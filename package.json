@@ -59,7 +59,7 @@
     "source-map": "^0.4.2",
     "through2": "^0.6.5",
     "typescript": "1.4.1",
-    "vinyl-fs": "^1.0.0"
+    "vinyl-fs": "wearefractal/vinyl-fs#0340fecd84c718782f574f4f1bda93567a26a67e"
   },
   "devDependencies": {
     "gulp": "~3.8.11",
